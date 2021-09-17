@@ -1,0 +1,139 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+.container {
+    border: 1px;
+    background-color: whitesmoke;
+    position: relative;
+    display: flex;
+}
+.div-wrap {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+img{
+    border-radius: 25%;
+    width: 40px;
+}
+.color {
+    border-bottom-right-radius: 495px;
+    border-bottom-left-radius: 211px;
+    background-color: violet;
+    width: 25%;
+    height: 96vh;
+}
+.c2 {
+    width: 20%;
+    background-color: hsl(206, 6%, 79%);
+    margin-left: 85px;
+    margin-top: 102px;
+    border-top-left-radius: 202px;
+}
+.wrapper {
+    width: 30vw;
+    min-width: 281px;
+    height: 50%;
+    border-radius: 35px;
+    border: 10px solid white;
+    background-color:  hsl(270, 20%, 96%);
+    padding: 6px;
+    margin: 59px 0px 415px -66px;
+}
+.wrap1 {
+    display: flex;
+    justify-content: space-evenly;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: hsl(288, 100%, 63%);
+    padding: 9px 20px 22px 14px;
+    margin: -4px -6px 1px -6px;
+    font-size: 12px;
+}
+.arrow {
+    color: white;
+    padding-right: 4px;
+}
+.menu {
+    color: white;
+    padding-left: 1px;
+}
+.p {
+    border-radius: 10px;
+    background-color: hsl(270, 7%, 64%);
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    margin-right: 93px;
+    color: hsl(276, 55%, 52%);
+    font-size: 12px;
+}
+.p1 {
+    border-radius: 10px;
+    background-color: white;
+    color: hsl(271, 15%, 43%);
+    margin-left: 119px;
+    padding-left: 9px;
+    padding-bottom: 12px;
+    padding-top: 6px;
+    font-size: 12px;
+}
+.heading {
+    color: hsl(271, 36%, 24%)
+}
+.paragraph {
+    color: hsl(276, 100%, 81%);
+    font-size: 12px;
+    margin-top: -34px;
+    margin-bottom: 33px;
+    margin-left: 115px;
+}
+.img1 {
+    border-radius: 53px;
+}
+.img2 {
+    padding-left: 153px;
+}
+.amount {
+    color: hsl(289, 100%, 72%);
+}
+form {
+    border-radius: 10px;
+    background-color: violet;
+    color: hsl(271, 15%, 43%);
+    margin-left: -1px;
+    padding-left: 0px;
+    margin-right: 121px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+button {
+    border: 1px;
+    border-radius: 35px;
+    background-color: white;
+    padding: 14px 154px 15px 35px;
+    margin-top: 0px;
+    font-size: 11px;
+}
+.wrap2 {
+    margin-top: 206px;
+    margin-left: 155px;
+    margin-right: -311px;
+}
+.peru {
+    color: hsl(271, 15%, 43%);
+    padding-right: 60px;
+}
+.vision {
+    color: hsl(271, 36%, 24%);
+}
+.sub {
+    border-radius: 49px;
+    padding: 7px 14px 10px 16px;
+    background-color: hsl(271, 15%, 43%);
+    color: white;
+    margin-left: -49px;
+}
